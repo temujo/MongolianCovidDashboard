@@ -1,0 +1,2 @@
+# MongolianCovidDashboard
+Mongolian Covid Dashboard
